@@ -3,7 +3,7 @@ import codecs
 
 #Author: ZombiDebugWall
 #Date: 17.06.2023
-#KeyUEFIFinder script for finding keys in UEFI rom images
+#KeyUEFIFinder script for finding keys in UEFI binary images
 
 def keyUEFIFinderMain():
 
