@@ -7,4 +7,4 @@ Script for finding Windows keys in UEFI binary images. Works with binary images 
 3. Check the output for keys, after the script finished running (watch out for lines that contain hyphens)
 
 ## How does it work?
-The script extracts strings from the provided binary file and outputs them to the terminal if a string is longer than 24 characters.
+The script extracts strings from the provided binary file and outputs strings longer than 24 characters to the terminal.
